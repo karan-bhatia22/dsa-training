@@ -17,6 +17,10 @@ Practice
 ### Day 2 - Linked Lists usage, Stacks and Queues
 
 Assignment
+* Max Element in Stack in O(1) time and space
 
 Practice
 * Stock Span Problem
+* Sort array using stacks
+* Reverse a stack using recursion
+* Reverse Individual words of a string
