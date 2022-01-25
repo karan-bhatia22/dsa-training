@@ -13,3 +13,10 @@ Practice
 * Check balanced parantheses
 * Next Greater Element in array
 * Reverse Queue using Recursion
+
+### Day 2 - Linked Lists usage, Stacks and Queues
+
+Assignment
+
+Practice
+* Stock Span Problem
