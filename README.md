@@ -24,3 +24,13 @@
 > * Sort array using stacks
 > * Reverse a stack using recursion
 > * Reverse Individual words of a string
+
+### Day 3 - Hash Table, Hash Table use cases, Queue method usage, Arrays and Strings
+
+> Assignment
+> * Greedy activity selection problem variation
+>
+> Practice
+> * Check if one array is a subset of another
+> * Find pair with greatest product in the array
+> * Longest increasing consecutive subsequence
