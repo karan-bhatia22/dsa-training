@@ -34,3 +34,9 @@
 > * Check if one array is a subset of another
 > * Find pair with greatest product in the array
 > * Longest increasing consecutive subsequence
+
+### Day 4 - Problems Solving using Heaps, Hash Table Retrieve and Remove
+
+> Practice
+> * Print k largest elements in an array in time complexity less than O(nlogn)
+> * Sort a k-sorted array (Time complexity should be less than O(nlogn))
