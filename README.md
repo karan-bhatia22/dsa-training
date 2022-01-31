@@ -40,3 +40,4 @@
 > Practice
 > * Print k largest elements in an array in time complexity less than O(nlogn)
 > * Sort a k-sorted array (Time complexity should be less than O(nlogn))
+> * Find k-Closest number in an array relative to x
