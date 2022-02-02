@@ -41,3 +41,10 @@
 > * Print k largest elements in an array in time complexity less than O(nlogn)
 > * Sort a k-sorted array (Time complexity should be less than O(nlogn))
 > * Find k-Closest number in an array relative to x
+
+### Day 5 - Binary Tree, Binary Heap, Randomized Quick Sort, Selection Sort, Heap Sort
+
+> Practice
+> * Binary Tree Traversals
+> * Invert Binary Tree
+> * Randomized Quick Sort
